@@ -1,0 +1,8 @@
+{
+    "C_Cpp.errorSquiggles": "enabled",
+    "[cpp]": {
+        "editor.formatOnSave": false
+    },
+    "problems.decorations.enabled": true,
+    "editor.inlineSuggest.enabled": false
+}
